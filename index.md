@@ -1,6 +1,6 @@
 ## Welcome to DataNL
 
-
+##[Contact](contact.md)
 
 [Book](https://github.com/Saroramath/DataNL/blob/gh-pages/StartUpData.ipynb) and ![Image](src)
 
