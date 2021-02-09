@@ -1,1 +1,1 @@
-This is a way to contat me.
+This is a way to contact me.
