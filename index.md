@@ -2,7 +2,7 @@
 
 
 
-[Book](StartUpData.ipynb) and ![Image](src)
+[Book](https://github.com/Saroramath/DataNL/blob/gh-pages/StartUpData.ipynb) and ![Image](src)
 
 ```
 
